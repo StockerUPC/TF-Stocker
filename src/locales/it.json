@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Goditi Stocker",
+    "subtitle": "Scopri tutto ciò che abbiamo da offrire",
+    "button": "Prova ora",
+    "login": "Accedi",
+    "firstSection": "La nostra proposta",
+    "firstSectionSubtitle": "Entrate e uscite semplificate",
+    "firstSectionText": "Il nostro sistema si concentra sulla fornitura di una soluzione completa e facile da usare che supporta la crescita e l'efficienza operativa delle piccole imprese",
+    "secondSection": "Informazioni generali",
+    "secondSectionSubtitle": "Entrate e uscite semplificate",
+    "secondSectionText": "Stocker è progettato per soddisfare le esigenze delle piccole imprese, consentendo una registrazione e una gestione efficiente dei clienti, fornitori, inventari, vendite, acquisti, profitti e profili aziendali",
+    "thirdSection": "I nostri servizi",
+    "thirdSectionSubtitle": "Sappi esattamente cosa hai nella tua azienda",
+    "thirdSectionText": "Scopri come Stocker può trasformare la tua gestione dell'inventario e portare la tua azienda al livello successivo. Sperimenta la facilità d'uso, l'accuratezza e la potenza di questa soluzione completa. Non aspettare più, contattaci subito e fai un passo verso una gestione dell'inventario ottimizzata ed efficiente.",
+    "fourthSection": "Contattaci",
+    "fourthSectionText": "Comunica con noi utilizzando il modulo di contatto sottostante. Non vediamo l'ora di sentirti e di aiutarti con le tue esigenze.",
+    "contactName": "Inserisci il nome",
+    "contactEmail": "Inserisci l'email",
+    "contactMessage": "Inserisci il messaggio",
+    "contactButton": "Invia",
+    "footerSection": "Tutti i diritti riservati"
+  },
+  "login": {
+    "logTitle": "Accedi",
+    "logEmail": "Email",
+    "logPassword": "Password",
+    "logButton": "Accedi",
+    "registerTitle": "Registrati",
+    "registerName": "Nome",
+    "registerEmail": "Email",
+    "registerPassword": "Password",
+    "registerButton": "Registrati"
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "subtitle": "Spiacenti, la pagina che stai cercando non esiste"
+  },
+  "stocker": {
+    "dashboard": "Cruscotto",
+    "inventory": "Inventario",
+    "reports": "Rapporti",
+    "suppliers": "Fornitori",
+    "orders": "Ordini",
+    "settings": "Impostazioni",
+    "logout": "Disconnetti"
+  },
+  "dashboard": {
+    "salesOverview": "Panoramica delle vendite",
+    "inventorySummary": "Riepilogo dell'inventario",
+    "purchaseOverview": "Panoramica degli acquisti",
+    "productSummary": "Riepilogo del prodotto",
+    "salesPurchase": "Vendite e acquisti",
+    "orderSummary": "Riepilogo dell'ordine",
+    "topSelling": "Miglior venditore",
+    "tableName": "Nome",
+    "tableSoldQuantity": "Quantità venduta",
+    "tableRemainingQuantity": "Quantità rimanente",
+    "tablePrice": "Prezzo",
+    "lowQuantity": "Basso quantitativo"
+  },
+  "inventory": {
+    "overallInventory": "Inventario generale",
+    "topSelling": "Miglior venditore",
+    "tableNames": "Nome",
+    "tablePrice": "Prezzo",
+    "tableQuantity": "Quantità",
+    "tableExpiry": "Data di scadenza",
+    "tableAvailability": "Disponibilità",
+    "tablePhoto": "Foto",
+    "inStock": "In magazzino",
+    "outOfStock": "Esaurito"
+  },
+  "reports": {
+    "overview": "Panoramica",
+    "bestSelling": "Miglior categoria di vendita",
+    "profitRevenue": "Profitto e ricavi",
+    "bestSellingStock": "Miglior venditore",
+    "tablePosition": "Posizione",
+    "tableNames": "Nome",
+    "tableId": "ID",
+    "tableCategory": "Categoria",
+    "tableRemainingQuantity": "Quantità rimanente",
+    "tableGenerated": "Generato",
+    "tablePhoto": "Foto"
+  },
+  "suppliers": {
+    "suppliers": "Fornitori",
+    "tableSupplierNames": "Nome del fornitore",
+    "tableProduct": "Prodotto",
+    "tableSupplierEmail": "Email",
+    "tableSupplierPhone": "Telefono",
+    "tableSupplierType": "Tipo",
+    "tableSupplierOnTheWay": "In arrivo"
+  },
+  "orders": {
+    "overallOrders": "Ordini totali",
+    "tableTitle": "Ordini",
+    "tableOrderId": "ID dell'ordine",
+    "tableProduct": "Nome del prodotto",
+    "tableOrderValue": "Valore dell'ordine",
+    "tableQuantity": "Quantità",
+    "tableExpectedDelivery": "Consegna prevista",
+    "tableStatus": "Stato"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Aproveite o Stocker",
+    "subtitle": "Descubra tudo o que temos para oferecer",
+    "button": "Experimente agora",
+    "login": "Entrar",
+    "firstSection": "Nossa proposta",
+    "firstSectionSubtitle": "Renda e despesas simplificadas",
+    "firstSectionText": "Nosso sistema se concentra em fornecer uma solução abrangente e fácil de usar que apoia o crescimento e a eficiência operacional das pequenas empresas",
+    "secondSection": "Informação geral",
+    "secondSectionSubtitle": "Renda e despesas simplificadas",
+    "secondSectionText": "O Stocker é projetado para atender às necessidades das pequenas empresas, permitindo o registro e a gestão eficiente de clientes, fornecedores, estoques, vendas, compras, lucros e perfis de negócios",
+    "thirdSection": "Nossos serviços",
+    "thirdSectionSubtitle": "Saiba exatamente o que você tem em seu negócio",
+    "thirdSectionText": "Descubra como o Stocker pode transformar a gestão do seu estoque e levar o seu negócio para o próximo nível. Experimente a facilidade de uso, a precisão e o poder desta solução abrangente. Não espere mais, entre em contato conosco agora mesmo e dê um passo em direção a uma gestão de estoque otimizada e eficiente.",
+    "fourthSection": "Fale conosco",
+    "fourthSectionText": "Comunique-se conosco usando o formulário de contato abaixo. Estamos ansiosos para ouvir de você e ajudá-lo com suas necessidades.",
+    "contactName": "Digite o nome",
+    "contactEmail": "Digite o email",
+    "contactMessage": "Digite a mensagem",
+    "contactButton": "Enviar",
+    "footerSection": "Todos os direitos reservados"
+  },
+  "login": {
+    "logTitle": "Entrar",
+    "logEmail": "Email",
+    "logPassword": "Senha",
+    "logButton": "Entrar",
+    "registerTitle": "Registrar",
+    "registerName": "Nome",
+    "registerEmail": "Email",
+    "registerPassword": "Senha",
+    "registerButton": "Registrar"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "subtitle": "Desculpe, a página que você está procurando não existe"
+  },
+  "stocker": {
+    "dashboard": "Painel",
+    "inventory": "Estoque",
+    "reports": "Relatórios",
+    "suppliers": "Fornecedores",
+    "orders": "Pedidos",
+    "settings": "Configurações",
+    "logout": "Sair"
+  },
+  "dashboard": {
+    "salesOverview": "Visão geral de vendas",
+    "inventorySummary": "Resumo do estoque",
+    "purchaseOverview": "Visão geral de compras",
+    "productSummary": "Resumo do produto",
+    "salesPurchase": "Vendas e compras",
+    "orderSummary": "Resumo do pedido",
+    "topSelling": "Produto mais vendido",
+    "tableName": "Nome",
+    "tableSoldQuantity": "Quantidade vendida",
+    "tableRemainingQuantity": "Quantidade restante",
+    "tablePrice": "Preço",
+    "lowQuantity": "Estoque de baixa quantidade"
+  },
+  "inventory": {
+    "overallInventory": "Estoque geral",
+    "topSelling": "Produto mais vendido",
+    "tableNames": "Nome",
+    "tablePrice": "Preço",
+    "tableQuantity": "Quantidade",
+    "tableExpiry": "Data de validade",
+    "tableAvailability": "Disponível",
+    "tablePhoto": "Foto",
+    "inStock": "Em estoque",
+    "outOfStock": "Fora de estoque"
+  },
+  "reports": {
+    "overview": "Visão geral",
+    "bestSelling": "Categoria mais vendida",
+    "profitRevenue": "Lucro e receita",
+    "bestSellingStock": "Produto mais vendido",
+    "tablePosition": "Posição",
+    "tableNames": "Nome",
+    "tableId": "ID",
+    "tableCategory": "Categoria",
+    "tableRemainingQuantity": "Quantidade restante",
+    "tableGenerated": "Gerado",
+    "tablePhoto": "Foto"
+  },
+  "suppliers": {
+    "suppliers": "Fornecedores",
+    "tableSupplierNames": "Nome do fornecedor",
+    "tableProduct": "Produto",
+    "tableSupplierEmail": "Email",
+    "tableSupplierPhone": "Telefone",
+    "tableSupplierType": "Tipo",
+    "tableSupplierOnTheWay": "A caminho"
+  },
+  "orders": {
+    "overallOrders": "Total de pedidos",
+    "tableTitle": "Pedidos",
+    "tableOrderId": "ID do pedido",
+    "tableProduct": "Nome do produto",
+    "tableOrderValue": "Valor do pedido",
+    "tableQuantity": "Quantidade",
+    "tableExpectedDelivery": "Entrega esperada",
+    "tableStatus": "Status"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "home": {
+    "title": "Enjoy Stocker",
+    "subtitle": "Discover everything we have to offer",
+    "button": "Try now",
+    "login": "Log In",
+    "firstSection": "Our proposal",
+    "firstSectionSubtitle": "Income and expenses made simple",
+    "firstSectionText": "Our system focuses on providing a comprehensive and easy-to-use solution that supports the growth and operational efficiency of small businesses",
+    "secondSection": "General Information",
+    "secondSectionSubtitle": "Income and expenses made simple",
+    "secondSectionText": "Stocker is designed to meet the needs of small businesses, allowing efficient registration and management of customers, suppliers, inventories, sales, purchases, profits and business profiles",
+    "thirdSection": "Our Services",
+    "thirdSectionSubtitle": "Know exactly what you have in your business",
+    "thirdSectionText": "Discover how Stocker can transform your inventory management and take your business to the next level. Experience the ease of use, accuracy and power of this comprehensive solution. Don't wait any longer, contact us right now and take a step towards optimized and efficient inventory management.",
+    "fourthSection": "Contact Us",
+    "fourthSectionText": "Communicate with us using the contact form below. We look forward to hearing from you and helping you with your needs.",
+    "contactName": "Enter Name",
+    "contactEmail": "Enter Email",
+    "contactMessage": "Enter Message",
+    "contactButton": "Send",
+    "footerSection": "All rights reserved"
+  },
+  "login": {
+    "logTitle": "Log In",
+    "logEmail": "Email",
+    "logPassword": "Password",
+    "logButton": "Log In",
+    "registerTitle": "Register",
+    "registerName": "Name",
+    "registerEmail": "Email",
+    "registerPassword": "Password",
+    "registerButton": "Register"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "Sorry, the page you are looking for does not exist"
+  },
+  "stocker": {
+    "dashboard": "Dashboard",
+    "inventory": "Inventory",
+    "reports": "Reports",
+    "suppliers": "Suppliers",
+    "orders": "Orders",
+    "management": "Management",
+    "settings": "Settings",
+    "logout": "Log Out"
+  },
+  "dashboard": {
+    "salesOverview": "Sales Overview",
+    "inventorySummary": "Inventory Summary",
+    "purchaseOverview": "Purchase Overview",
+    "productSummary": "Product Summary",
+    "salesPurchase": "Sales & Purchase",
+    "orderSummary": "Order Summary",
+    "topSelling": "Top Selling Stock",
+    "tableName": "Name",
+    "tableSoldQuantity": "Sold Quantity",
+    "tableRemainingQuantity": "Remaining Quantity",
+    "tablePrice": "Price",
+    "lowQuantity": "Low Quantity Stock"
+  },
+  "inventory": {
+    "overallInventory": "Overall Inventory",
+    "topSelling": "Top Selling Stock",
+    "tableNames": "Name",
+    "tablePrice": "Price",
+    "tableQuantity": "Quantity",
+    "tableExpiry": "Expiry Date",
+    "tableAvailability": "Available",
+    "tablePhoto": "Photo",
+    "inStock": "In-Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "reports": {
+    "overview": "Overview",
+    "bestSelling": "Best Selling Category",
+    "profitRevenue": "Profit & Revenue",
+    "bestSellingStock": "Best Selling Stock",
+    "tablePosition": "Position",
+    "tableNames": "Name",
+    "tableId": "ID",
+    "tableCategory": "Category",
+    "tableRemainingQuantity": "Remaining Quantity",
+    "tableGenerated": "Generated",
+    "tablePhoto": "Photo"
+  },
+  "suppliers": {
+    "suppliers": "Suppliers",
+    "tableSupplierNames": "Supplier Name",
+    "tableProduct": "Product",
+    "tableSupplierEmail": "Email",
+    "tableSupplierPhone": "Phone",
+    "tableSupplierType": "Type",
+    "tableSupplierOnTheWay": "On the Way"
+  },
+  "orders": {
+    "overallOrders": "Overall Orders",
+    "tableTitle": "Orders",
+    "tableOrderId": "Order ID",
+    "tableProduct": "Product Name",
+    "tableOrderValue": "Order Value",
+    "tableQuantity": "Quantity",
+    "tableExpectedDelivery": "Expected Delivery",
+    "tableStatus": "Status"
+  },
+  "management": {
+    "manageProducts": "Manage Products",
+    "manageSuppliers": "Manage Suppliers",
+    "manageOrders": "Manage Orders"
+  }
+}

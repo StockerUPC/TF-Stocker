@@ -1,0 +1,112 @@
+{
+  "home": {
+    "title": "Disfrute de Stocker",
+    "subtitle": "Conozca todo lo que tenemos para ofrecerle",
+    "button": "Pruebe ahora",
+    "login": "Iniciar Sesión",
+    "firstSection": "Nuestra propuesta",
+    "firstSectionSubtitle": "Ingresos y egresos de forma sencilla",
+    "firstSectionText": "Nuestro sistema se centra en ofrecer una solución integral y fácil de usar que apoya el crecimiento y la eficiencia operativa de los pequeños negocios",
+    "secondSection": "Información General",
+    "secondSectionSubtitle": "Ingresos y egresos de forma sencilla",
+    "secondSectionText": "Stocker está diseñado para satisfacer las necesidades de los negocios pequeños, permitiendo el registro y gestión eficiente de clientes, proveedores, inventarios, ventas, compras, ganancias y perfiles comerciales",
+    "thirdSection": "Nuestros Servicios",
+    "thirdSectionSubtitle": "Sepa exactamente qué posee en su negocio",
+    "thirdSectionText": "Descubra cómo Stocker puede transformar la gestión de su inventario y llevar su negocio al siguiente nivel. Experimente la facilidad de uso, la precisión y la potencia de esta solución integral. No espere más, contacte con nosotros ahora mismo y dé un paso hacia una gestión de inventario optimizada y eficiente.",
+    "fourthSection": "Contáctanos",
+    "fourthSectionText": "Comunícate con nosotros utilizando el formulario de contacto a continuación. Esperamos con ansias escucharte y ayudarte con tus necesidades.",
+    "contactName": "Ingrese Nombre",
+    "contactEmail": "Ingrese Email",
+    "contactMessage": "Ingrese Mensaje",
+    "contactButton": "Enviar",
+    "footerSection": "Todos los derechos reservados"
+  },
+  "login": {
+    "logTitle": "Iniciar Sesión",
+    "logEmail": "Correo electrónico",
+    "logPassword": "Contraseña",
+    "logButton": "Iniciar Sesión",
+    "registerTitle": "Registrarse",
+    "registerName": "Nombre",
+    "registerEmail": "Correo electrónico",
+    "registerPassword": "Contraseña",
+    "registerButton": "Registrarse"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "subtitle": "Lo sentimos, la página que busca no existe"
+  },
+  "stocker": {
+    "dashboard": "Tablero",
+    "inventory": "Inventario",
+    "reports": "Reportes",
+    "suppliers": "Proveedores",
+    "orders": "Órdenes",
+    "management": "Gestión",
+    "settings": "Configuración",
+    "logout": "Cerrar Sesión"
+  },
+  "dashboard": {
+    "salesOverview": "Resumen de Ventas",
+    "inventorySummary": "Resumen de Inventario",
+    "purchaseOverview": "Resumen de Compras",
+    "productSummary": "Resumen de Productos",
+    "salesPurchase": "Ventas y Compras",
+    "orderSummary": "Resumen de Órdenes",
+    "topSelling": "Producto Más Vendido",
+    "tableName": "Nombre",
+    "tableSoldQuantity": "Cantidad Vendida",
+    "tableRemainingQuantity": "Cantidad Restante",
+    "tablePrice": "Precio",
+    "lowQuantity": "Stock de Baja Cantidad"
+  },
+  "inventory": {
+    "overallInventory": "Inventario General",
+    "topSelling": "Producto Más Vendido",
+    "tableNames": "Nombre",
+    "tablePrice": "Precio",
+    "tableQuantity": "Cantidad",
+    "tableExpiry": "Fecha de Caducidad",
+    "tableAvailability": "Disponible",
+    "tablePhoto": "Foto",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado"
+  },
+  "reports": {
+    "overview": "Resumen",
+    "bestSelling": "Categoría Más Vendida",
+    "profitRevenue": "Ganancias y Ingresos",
+    "bestSellingStock": "Producto Más Vendido",
+    "tablePosition": "Posición",
+    "tableNames": "Nombre",
+    "tableId": "ID",
+    "tableCategory": "Categoría",
+    "tableRemainingQuantity": "Cantidad Restante",
+    "tableGenerated": "Generado",
+    "tablePhoto": "Foto"
+  },
+  "suppliers": {
+    "suppliers": "Proveedores",
+    "tableSupplierNames": "Nombre del Proveedor",
+    "tableProduct": "Producto",
+    "tableSupplierEmail": "Correo Electrónico",
+    "tableSupplierPhone": "Teléfono",
+    "tableSupplierType": "Tipo",
+    "tableSupplierOnTheWay": "En Camino"
+  },
+  "orders": {
+    "overallOrders": "Órdenes Totales",
+    "tableTitle": "Órdenes",
+    "tableOrderId": "ID de la Orden",
+    "tableProduct": "Nombre del Producto",
+    "tableOrderValue": "Valor de la Orden",
+    "tableQuantity": "Cantidad",
+    "tableExpectedDelivery": "Entrega Esperada",
+    "tableStatus": "Estado"
+  },
+  "management": {
+    "manageProducts": "Gestionar Productos",
+    "manageSuppliers": "Gestionar Proveedores",
+    "manageOrders": "Gestionar Órdenes"
+  }
+}

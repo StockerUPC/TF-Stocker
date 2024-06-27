@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Genießen Sie Stocker",
+    "subtitle": "Entdecken Sie alles, was wir zu bieten haben",
+    "button": "Jetzt ausprobieren",
+    "login": "Anmelden",
+    "firstSection": "Unser Vorschlag",
+    "firstSectionSubtitle": "Einnahmen und Ausgaben einfach gemacht",
+    "firstSectionText": "Unser System konzentriert sich darauf, eine umfassende und benutzerfreundliche Lösung zu bieten, die das Wachstum und die betriebliche Effizienz kleiner Unternehmen unterstützt",
+    "secondSection": "Allgemeine Informationen",
+    "secondSectionSubtitle": "Einnahmen und Ausgaben einfach gemacht",
+    "secondSectionText": "Stocker ist darauf ausgelegt, den Bedürfnissen kleiner Unternehmen gerecht zu werden, indem es eine effiziente Registrierung und Verwaltung von Kunden, Lieferanten, Beständen, Verkäufen, Einkäufen, Gewinnen und Geschäftsprofilen ermöglicht",
+    "thirdSection": "Unsere Dienstleistungen",
+    "thirdSectionSubtitle": "Wissen Sie genau, was Sie in Ihrem Unternehmen haben",
+    "thirdSectionText": "Entdecken Sie, wie Stocker Ihre Bestandsverwaltung transformieren und Ihr Unternehmen auf die nächste Stufe bringen kann. Erleben Sie die Benutzerfreundlichkeit, Genauigkeit und Leistungsfähigkeit dieser umfassenden Lösung. Warten Sie nicht länger, kontaktieren Sie uns jetzt und machen Sie einen Schritt in Richtung optimierte und effiziente Bestandsverwaltung.",
+    "fourthSection": "Kontaktieren Sie uns",
+    "fourthSectionText": "Kommunizieren Sie mit uns über das untenstehende Kontaktformular. Wir freuen uns darauf, von Ihnen zu hören und Ihnen bei Ihren Bedürfnissen zu helfen.",
+    "contactName": "Name eingeben",
+    "contactEmail": "E-Mail eingeben",
+    "contactMessage": "Nachricht eingeben",
+    "contactButton": "Senden",
+    "footerSection": "Alle Rechte vorbehalten"
+  },
+  "login": {
+    "logTitle": "Anmelden",
+    "logEmail": "E-Mail",
+    "logPassword": "Passwort",
+    "logButton": "Anmelden",
+    "registerTitle": "Registrieren",
+    "registerName": "Name",
+    "registerEmail": "E-Mail",
+    "registerPassword": "Passwort",
+    "registerButton": "Registrieren"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "subtitle": "Entschuldigung, die Seite, die Sie suchen, existiert nicht"
+  },
+  "stocker": {
+    "dashboard": "Dashboard",
+    "inventory": "Inventar",
+    "reports": "Berichte",
+    "suppliers": "Lieferanten",
+    "orders": "Bestellungen",
+    "settings": "Einstellungen",
+    "logout": "Abmelden"
+  },
+  "dashboard": {
+    "salesOverview": "Verkaufsübersicht",
+    "inventorySummary": "Inventarübersicht",
+    "purchaseOverview": "Einkaufsübersicht",
+    "productSummary": "Produktübersicht",
+    "salesPurchase": "Verkauf & Einkauf",
+    "orderSummary": "Bestellübersicht",
+    "topSelling": "Top-Verkauf Lager",
+    "tableName": "Name",
+    "tableSoldQuantity": "Verkaufte Menge",
+    "tableRemainingQuantity": "Verbleibende Menge",
+    "tablePrice": "Preis",
+    "lowQuantity": "Niedrige Menge Lager"
+  },
+  "inventory": {
+    "overallInventory": "Gesamtinventar",
+    "topSelling": "Top-Verkauf Lager",
+    "tableNames": "Name",
+    "tablePrice": "Preis",
+    "tableQuantity": "Menge",
+    "tableExpiry": "Ablaufdatum",
+    "tableAvailability": "Verfügbarkeit",
+    "tablePhoto": "Foto",
+    "inStock": "Auf Lager",
+    "outOfStock": "Ausverkauft"
+  },
+  "reports": {
+    "overview": "Übersicht",
+    "bestSelling": "Bestverkaufte Kategorie",
+    "profitRevenue": "Gewinn & Einnahmen",
+    "bestSellingStock": "Bestverkaufte Lager",
+    "tablePosition": "Position",
+    "tableNames": "Name",
+    "tableId": "ID",
+    "tableCategory": "Kategorie",
+    "tableRemainingQuantity": "Verbleibende Menge",
+    "tableGenerated": "Erzeugt",
+    "tablePhoto": "Foto"
+  },
+  "suppliers": {
+    "suppliers": "Lieferanten",
+    "tableSupplierNames": "Lieferantenname",
+    "tableProduct": "Produkt",
+    "tableSupplierEmail": "E-Mail",
+    "tableSupplierPhone": "Telefon",
+    "tableSupplierType": "Typ",
+    "tableSupplierOnTheWay": "Unterwegs"
+  },
+  "orders": {
+    "overallOrders": "Gesamtbestellungen",
+    "tableTitle": "Bestellungen",
+    "tableOrderId": "Bestell-ID",
+    "tableProduct": "Produktname",
+    "tableOrderValue": "Bestellwert",
+    "tableQuantity": "Menge",
+    "tableExpectedDelivery": "Erwartete Lieferung",
+    "tableStatus": "Status"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Profitez de Stocker",
+    "subtitle": "Découvrez tout ce que nous avons à offrir",
+    "button": "Essayez maintenant",
+    "login": "Se connecter",
+    "firstSection": "Notre proposition",
+    "firstSectionSubtitle": "Revenus et dépenses simplifiés",
+    "firstSectionText": "Notre système se concentre sur la fourniture d'une solution complète et facile à utiliser qui soutient la croissance et l'efficacité opérationnelle des petites entreprises",
+    "secondSection": "Informations générales",
+    "secondSectionSubtitle": "Revenus et dépenses simplifiés",
+    "secondSectionText": "Stocker est conçu pour répondre aux besoins des petites entreprises, permettant un enregistrement et une gestion efficaces des clients, fournisseurs, stocks, ventes, achats, profits et profils d'entreprise",
+    "thirdSection": "Nos services",
+    "thirdSectionSubtitle": "Sachez exactement ce que vous avez dans votre entreprise",
+    "thirdSectionText": "Découvrez comment Stocker peut transformer votre gestion des stocks et faire passer votre entreprise au niveau supérieur. Découvrez la facilité d'utilisation, la précision et la puissance de cette solution complète. N'attendez plus, contactez-nous dès maintenant et faites un pas vers une gestion des stocks optimisée et efficace.",
+    "fourthSection": "Contactez-nous",
+    "fourthSectionText": "Communiquez avec nous en utilisant le formulaire de contact ci-dessous. Nous avons hâte de vous entendre et de vous aider avec vos besoins.",
+    "contactName": "Entrez le nom",
+    "contactEmail": "Entrez l'email",
+    "contactMessage": "Entrez le message",
+    "contactButton": "Envoyer",
+    "footerSection": "Tous droits réservés"
+  },
+  "login": {
+    "logTitle": "Se connecter",
+    "logEmail": "Email",
+    "logPassword": "Mot de passe",
+    "logButton": "Se connecter",
+    "registerTitle": "S'inscrire",
+    "registerName": "Nom",
+    "registerEmail": "Email",
+    "registerPassword": "Mot de passe",
+    "registerButton": "S'inscrire"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "subtitle": "Désolé, la page que vous recherchez n'existe pas"
+  },
+  "stocker": {
+    "dashboard": "Tableau de bord",
+    "inventory": "Inventaire",
+    "reports": "Rapports",
+    "suppliers": "Fournisseurs",
+    "orders": "Commandes",
+    "settings": "Paramètres",
+    "logout": "Se déconnecter"
+  },
+  "dashboard": {
+    "salesOverview": "Aperçu des ventes",
+    "inventorySummary": "Résumé de l'inventaire",
+    "purchaseOverview": "Aperçu des achats",
+    "productSummary": "Résumé du produit",
+    "salesPurchase": "Ventes et achats",
+    "orderSummary": "Résumé de la commande",
+    "topSelling": "Stock le plus vendu",
+    "tableName": "Nom",
+    "tableSoldQuantity": "Quantité vendue",
+    "tableRemainingQuantity": "Quantité restante",
+    "tablePrice": "Prix",
+    "lowQuantity": "Stock de faible quantité"
+  },
+  "inventory": {
+    "overallInventory": "Inventaire global",
+    "topSelling": "Stock le plus vendu",
+    "tableNames": "Nom",
+    "tablePrice": "Prix",
+    "tableQuantity": "Quantité",
+    "tableExpiry": "Date d'expiration",
+    "tableAvailability": "Disponible",
+    "tablePhoto": "Photo",
+    "inStock": "En stock",
+    "outOfStock": "En rupture de stock"
+  },
+  "reports": {
+    "overview": "Aperçu",
+    "bestSelling": "Catégorie la plus vendue",
+    "profitRevenue": "Profit et revenu",
+    "bestSellingStock": "Stock le plus vendu",
+    "tablePosition": "Position",
+    "tableNames": "Nom",
+    "tableId": "ID",
+    "tableCategory": "Catégorie",
+    "tableRemainingQuantity": "Quantité restante",
+    "tableGenerated": "Généré",
+    "tablePhoto": "Photo"
+  },
+  "suppliers": {
+    "suppliers": "Fournisseurs",
+    "tableSupplierNames": "Nom du fournisseur",
+    "tableProduct": "Produit",
+    "tableSupplierEmail": "Email",
+    "tableSupplierPhone": "Téléphone",
+    "tableSupplierType": "Type",
+    "tableSupplierOnTheWay": "En route"
+  },
+  "orders": {
+    "overallOrders": "Total des commandes",
+    "tableTitle": "Commandes",
+    "tableOrderId": "ID de commande",
+    "tableProduct": "Nom du produit",
+    "tableOrderValue": "Valeur de la commande",
+    "tableQuantity": "Quantité",
+    "tableExpectedDelivery": "Livraison prévue",
+    "tableStatus": "Statut"
+  }
+}
